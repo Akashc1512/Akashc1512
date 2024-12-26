@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Akash Chaudhari
+- 👀 I’m interested in Backend Software Engineering, Cloud Technologies, and solving complex problems with clean and efficient code.
+- 🌱 I’m currently learning advanced **System Design**, **Microservices** architecture, and exploring **Cloud Platforms** like AWS and Azure.
+- 💞️ I’m looking to collaborate on open-source projects, particularly those focused on **Java**, **Spring Boot**, and **Microservices**.
+- 📫 How to reach me: Feel free to connect via [LinkedIn](https://www.linkedin.com/in/akashchaudhari396) or email me at [akashc.jobs@gmail.com](mailto:akashc.jobs@gmail.com).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving coding challenges and have completed over 400 challenges on platforms like **LeetCode**, **GeeksforGeeks**, and **HackerRank**.
