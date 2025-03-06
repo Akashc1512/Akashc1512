@@ -40,7 +40,3 @@ These experiences sharpened my ability to **build and deploy AI solutions that m
 ### 📩 **Let’s Connect & Build the Future of AI**  
 📧 **Email:** [akash.jobs15@gmail.com](mailto:akash.jobs15@gmail.com)  
 🔗 **LinkedIn:** [akashchaudhari396](https://www.linkedin.com/in/akashchaudhari396)  
-
----
-
-### 🚀 **Immediate Joiner | Generative AI Engineer | LLMs | AI Automation | AWS & MLOps | Building Intelligent AI Systems | 2.5+ Years in GenAI**  
