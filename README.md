@@ -1,12 +1,9 @@
 # 👋 Hi, I’m Akash Chaudhari!  
-
-🚀 **Generative AI Engineer | Backend Developer **  
+## 🚀 **Generative AI Engineer | Backend Developer**  
 
 I’m passionate about **Generative AI**, **Backend Engineering**, and **Cloud Technologies**.  
 With **2.5+ years of experience**, I specialize in **LLMs, AI automation, and scalable AI deployment** to build intelligent, business-driven AI solutions.  
-
 ---
-
 ## 🚀 **Tech Stack & Expertise**  
 
 ### 🧠 **Generative AI & LLMs**  
