@@ -12,7 +12,6 @@ With **2.5+ years of experience**, I specialize in **LLMs, AI automation, and sc
 💻 **400+ Coding Challenges Solved** – 🏆 **LeetCode, GeeksforGeeks, HackerRank**  
 🚀 **Successfully Deployed Multiple AI Systems** – Real-world **LLM-powered** applications in **public safety & automation**  
 🎤 **Speaker & AI Enthusiast** – Presented AI solutions to **high-level government officials, ministers, and stakeholders**  
----
 
 ## 🚀 **Tech Stack & Expertise**  
 <p align="center">
@@ -28,14 +27,13 @@ With **2.5+ years of experience**, I specialize in **LLMs, AI automation, and sc
   <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=amazonaws&logoColor=orange" height="100">
   <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=docker&logoColor=blue" height="100">
   <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=kubernetes&logoColor=blue" height="100">
-  <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=mongodb&logoColor=green" height="100">
-  <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=mysql&logoColor=blue" height="100">
-  <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=postgresql&logoColor=blue" height="100">
   <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=chromadb&logoColor=purple" height="100">
   <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=pinecone&logoColor=blue" height="100">
-</p>
----
-### 🧠 **Generative AI & LLMs** 🤖  
+  <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=mongodb&logoColor=green" height="100">
+  <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=mysql&logoColor=blue" height="100">
+  <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=postgresql&logoColor=blue" height="100"></p>
+  
+### 🧠 **Generative AI & LLMs** 🤖
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  ![LangChain](https://img.shields.io/badge/LangChain-229954?style=for-the-badge&logo=python&logoColor=white)  ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0A66C2?style=for-the-badge&logo=llama&logoColor=white)  
 ✔ Fine-tuning **GPT, Llama, Falcon** for **enterprise AI**  
 ✔ **RAG-based AI applications** & **Vector Search**  
