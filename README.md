@@ -1,53 +1,48 @@
 # 👋 Hi, I’m Akash Chaudhari!  
-🚀 **Generative AI Engineer**  
 
-## 🔍 Interests  
-I’m passionate about **Generative AI, Backend Software Engineering, and Cloud Technologies**.  
-I thrive on building **AI-powered solutions** that solve complex, real-world problems efficiently.  
+🚀 **Generative AI Engineer | Backend Developer **  
 
-## 📚 Currently Learning  
-- **Advanced System Design** & **Microservices Architecture**  
-- **LLM Optimization** – Fine-tuning large language models for enterprise use  
-- **Cloud & MLOps** (AWS, Azure) – Scalable AI deployment strategies  
+I’m passionate about **Generative AI**, **Backend Engineering**, and **Cloud Technologies**.  
+With **2.5+ years of experience**, I specialize in **LLMs, AI automation, and scalable AI deployment** to build intelligent, business-driven AI solutions.  
 
-## 🤝 Looking to Collaborate On  
-- **Open-source projects** in **Generative AI, LLMs, Java Spring Boot, and MLOps**  
-- AI applications for **law enforcement, public safety, and legal tech**  
+---
 
+## 🚀 **Tech Stack & Expertise**  
 
-# 🚀 AI is Transforming Industries—And I’m Here to Lead the Charge!  
+### 🧠 **Generative AI & LLMs**  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  ![LangChain](https://img.shields.io/badge/LangChain-229954?style=for-the-badge&logo=python&logoColor=white)   ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0A66C2?style=for-the-badge&logo=llama&logoColor=white)  
+✔ Fine-tuning **GPT, Llama, Falcon** for enterprise AI  
+✔ Vector search & **RAG-based AI applications**  
+✔ Building **custom AI models** for legal & law enforcement  
 
-As a **Generative AI Engineer with 2.5+ years of experience**, I specialize in **LLMs, AI automation, and cloud-based AI deployments (AWS)**.  
-I **fine-tune large language models, optimize AI workflows, and integrate AI into business processes** to **drive efficiency and innovation**.  
+### ⚙ **Backend & AI Automation**  
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)   ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+✔ **AI-driven automation** – intelligent chatbots, legal document processing  
+✔ **Microservices & API development** using **Java Spring Boot & Python (FastAPI, Flask)**  
 
-### 💡 **My Journey in AI & Law Enforcement**  
-During my time with **Government of Maharashtra (GoM) and Mumbai Police**, I worked on **mission-critical AI projects** that:  
-✅ **Enhanced crime intelligence** using NLP & AI-driven analytics  
-✅ **Automated operational workflows**, reducing manual workload  
-✅ **Improved decision-making** in high-stakes, real-time environments  
+### ☁ **Cloud & MLOps**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+✔ **Scalable AI deployment** – AWS Bedrock, EC2, Lambda  
+✔ **MLOps & CI/CD pipelines** – Model lifecycle management  
 
-These experiences sharpened my ability to **build and deploy AI solutions that matter**—whether for **law enforcement, enterprises, or AI-driven automation**.  
+### 🔒 **AI for Security & Compliance**  
+![Security](https://img.shields.io/badge/Security-232F3E?style=for-the-badge&logo=security&logoColor=white)  
+✔ **Crime intelligence & risk analysis** using AI  
+✔ **Fraud detection & secure AI architectures**  
 
-## 🔥 What I Bring to the Table  
+---
 
-🔹 ![LLMs](https://img.shields.io/badge/-LLMs-05122A?style=flat&logo=openai&logoColor=white&labelColor=black&color=black)  
-**Generative AI** – Fine-tuning **GPT, Llama, Falcon** for enterprise AI  
+## 🎯 **What I’m Currently Working On**  
+🚀 **AI-Powered Legal & Law Enforcement Assistant** – NLP-based crime intelligence & legal automation  
+🚗 **AI Vehicle Maintenance Tracker** – Optimizing fuel efficiency for police fleets using AI  
+📊 **Crime Analysis & Prediction System** – Using **LLMs & NLP** for high-crime area predictions  
 
-🔹 ![AI Automation & NLP](https://img.shields.io/badge/-AI%20Automation-05122A?style=flat&logo=tensorflow&logoColor=white&labelColor=black&color=black)  
-**AI Automation & NLP** – Intelligent **chatbots, legal document processing, AI-driven workflows**  
+---
 
-🔹 ![Cloud & MLOps](https://img.shields.io/badge/-Cloud%20&%20MLOps-05122A?style=flat&logo=amazonaws&logoColor=white&labelColor=black&color=black)  
-**Cloud & MLOps (AWS)** – **Scalable AI deployment, optimization, and model lifecycle management**  
+## 🤝 **Let’s Connect & Collaborate!**  
+💼 Open to collaborating on **Generative AI, LLMs, and AI-driven automation projects**!  
+📩 Feel free to reach out:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashchaudhari396)  
+[![Email](https://img.shields.io/badge/Email-akash.jobs15@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.jobs15@gmail.com)  
 
-🔹 ![Security](https://img.shields.io/badge/-AI%20Security-05122A?style=flat&logo=security&logoColor=white&labelColor=black&color=black)  
-**AI for Security & Compliance** – **Risk analysis, fraud detection, and secure AI architectures**  
-
-🔹 ![AI Implementation](https://img.shields.io/badge/-End--to--End%20AI-05122A?style=flat&logo=python&logoColor=white&labelColor=black&color=black)  
-**End-to-End AI Implementation** – **From POC to production-ready AI solutions**  
-  
-
-🚀 AI is evolving at **lightning speed**, and I’m committed to **pushing the boundaries of innovation**—deploying **powerful, scalable, and efficient AI solutions** that **drive real-world impact**.  
-
-### 📩 **Let’s Connect & Build the Future of AI**  
-📧 **Email:** [akash.jobs15@gmail.com](mailto:akash.jobs15@gmail.com)  
-🔗 **LinkedIn:** [akashchaudhari396](https://www.linkedin.com/in/akashchaudhari396)  
+🚀 **AI is shaping the future—let’s build it together!**
