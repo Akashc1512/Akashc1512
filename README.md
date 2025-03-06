@@ -34,7 +34,7 @@ With **2.5+ years of experience**, I specialize in **LLMs, AI automation, and sc
   <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=chromadb&logoColor=purple" height="100">
   <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=pinecone&logoColor=blue" height="100">
 </p>
-
+---
 ### 🧠 **Generative AI & LLMs** 🤖  
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  ![LangChain](https://img.shields.io/badge/LangChain-229954?style=for-the-badge&logo=python&logoColor=white)  ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0A66C2?style=for-the-badge&logo=llama&logoColor=white)  
 ✔ Fine-tuning **GPT, Llama, Falcon** for **enterprise AI**  
