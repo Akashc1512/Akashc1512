@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Akash Chaudhari!  
-🚀 **Generative AI Engineer | Backend Developer | AI for Law Enforcement**  
+🚀 **Generative AI Engineer**  
 
 ## 🔍 Interests  
 I’m passionate about **Generative AI, Backend Software Engineering, and Cloud Technologies**.  
