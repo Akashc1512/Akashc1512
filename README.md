@@ -29,6 +29,13 @@ During my time with **Government of Maharashtra (GoM) and Mumbai Police**, I wor
 These experiences sharpened my ability to **build and deploy AI solutions that matter**—whether for **law enforcement, enterprises, or AI-driven automation**.  
 
 ### 🔥 **What I Bring to the Table**  
+
+![LLMs](https://img.shields.io/badge/LLMs-GPT%2C%20Llama%2C%20Falcon-blue?style=flat&logo=OpenAI)  
+![AI Automation & NLP](https://img.shields.io/badge/AI%20Automation-Chatbots%2C%20NLP-yellow?style=flat&logo=TensorFlow)  
+![Cloud & MLOps](https://img.shields.io/badge/Cloud%20&%20MLOps-AWS%2C%20Kubernetes-orange?style=flat&logo=AmazonAWS)  
+![AI Security & Compliance](https://img.shields.io/badge/AI%20Security-Risk%20Analysis%2C%20Fraud%20Detection-red?style=flat&logo=Security)  
+![End-to-End AI](https://img.shields.io/badge/AI%20Implementation-POC%20to%20Production-green?style=flat&logo=Python)  
+
 ✔ **LLMs & Generative AI** – Fine-tuning **GPT, Llama, Falcon** for enterprise AI  
 ✔ **AI Automation & NLP** – Intelligent chatbots, legal document processing, AI-driven workflows  
 ✔ **Cloud & MLOps (AWS)** – Scalable AI deployment, optimization, and model lifecycle management  
