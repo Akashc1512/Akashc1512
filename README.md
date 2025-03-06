@@ -28,19 +28,23 @@ During my time with **Government of Maharashtra (GoM) and Mumbai Police**, I wor
 
 These experiences sharpened my ability to **build and deploy AI solutions that matter**—whether for **law enforcement, enterprises, or AI-driven automation**.  
 
-### 🔥 **What I Bring to the Table**  
+## 🔥 What I Bring to the Table  
 
-![LLMs](https://img.shields.io/badge/LLMs-GPT%2C%20Llama%2C%20Falcon-blue?style=flat&logo=OpenAI)  
-![AI Automation & NLP](https://img.shields.io/badge/AI%20Automation-Chatbots%2C%20NLP-yellow?style=flat&logo=TensorFlow)  
-![Cloud & MLOps](https://img.shields.io/badge/Cloud%20&%20MLOps-AWS%2C%20Kubernetes-orange?style=flat&logo=AmazonAWS)  
-![AI Security & Compliance](https://img.shields.io/badge/AI%20Security-Risk%20Analysis%2C%20Fraud%20Detection-red?style=flat&logo=Security)  
-![End-to-End AI](https://img.shields.io/badge/AI%20Implementation-POC%20to%20Production-green?style=flat&logo=Python)  
+🔹 ![LLMs](https://img.shields.io/badge/-LLMs-05122A?style=flat&logo=openai&logoColor=white&labelColor=black&color=black)  
+**Generative AI** – Fine-tuning **GPT, Llama, Falcon** for enterprise AI  
 
-✔ **LLMs & Generative AI** – Fine-tuning **GPT, Llama, Falcon** for enterprise AI  
-✔ **AI Automation & NLP** – Intelligent chatbots, legal document processing, AI-driven workflows  
-✔ **Cloud & MLOps (AWS)** – Scalable AI deployment, optimization, and model lifecycle management  
-✔ **AI for Security & Compliance** – Risk analysis, fraud detection, and secure AI architectures  
-✔ **End-to-End AI Implementation** – From **POC to production-ready AI solutions**  
+🔹 ![AI Automation & NLP](https://img.shields.io/badge/-AI%20Automation-05122A?style=flat&logo=tensorflow&logoColor=white&labelColor=black&color=black)  
+**AI Automation & NLP** – Intelligent **chatbots, legal document processing, AI-driven workflows**  
+
+🔹 ![Cloud & MLOps](https://img.shields.io/badge/-Cloud%20&%20MLOps-05122A?style=flat&logo=amazonaws&logoColor=white&labelColor=black&color=black)  
+**Cloud & MLOps (AWS)** – **Scalable AI deployment, optimization, and model lifecycle management**  
+
+🔹 ![Security](https://img.shields.io/badge/-AI%20Security-05122A?style=flat&logo=security&logoColor=white&labelColor=black&color=black)  
+**AI for Security & Compliance** – **Risk analysis, fraud detection, and secure AI architectures**  
+
+🔹 ![AI Implementation](https://img.shields.io/badge/-End--to--End%20AI-05122A?style=flat&logo=python&logoColor=white&labelColor=black&color=black)  
+**End-to-End AI Implementation** – **From POC to production-ready AI solutions**  
+  
 
 🚀 AI is evolving at **lightning speed**, and I’m committed to **pushing the boundaries of innovation**—deploying **powerful, scalable, and efficient AI solutions** that **drive real-world impact**.  
 
